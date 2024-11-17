@@ -1,0 +1,9 @@
+.BoxElements {
+background-color: aquamarine;
+width: 300px;
+margin: 5px;
+padding: 10px;
+border: 2px solid #ccc; /* Color gris */
+border-radius: 10px; /* Bordes redondeados */
+text-align: center;
+}

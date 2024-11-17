@@ -1,0 +1,42 @@
+/* Contador.css */
+
+.contador {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .contador-numero {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .contador-botones {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .boton {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .boton:hover {
+    background-color: #0056b3;
+  }
+  
+  .boton-resetear {
+    background-color: #dc3545;
+  }
+  
+  .boton-resetear:hover {
+    background-color: #c82333;
+  }
+  

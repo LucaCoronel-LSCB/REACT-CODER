@@ -1,0 +1,6 @@
+.cajaCard{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  background: red;
+}
