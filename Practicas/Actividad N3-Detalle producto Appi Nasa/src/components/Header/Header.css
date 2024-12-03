@@ -1,0 +1,13 @@
+.container-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+    padding: 10px;
+}
+.container-logo-titulo{
+    margin: 10px;
+}
+.logoNasa{
+    width: 300px;
+}

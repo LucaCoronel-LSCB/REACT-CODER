@@ -1,0 +1,7 @@
+.titulo{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}

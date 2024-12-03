@@ -1,0 +1,5 @@
+.card-list-container{
+    background: gray;
+    display: flex;
+    justify-content: center;
+}
