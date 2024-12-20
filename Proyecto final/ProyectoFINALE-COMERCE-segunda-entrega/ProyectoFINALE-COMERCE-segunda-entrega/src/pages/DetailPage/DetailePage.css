@@ -1,0 +1,8 @@
+.cajaDetailePage{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    align-self: stretch;
+    
+    gap:10px;
+    }

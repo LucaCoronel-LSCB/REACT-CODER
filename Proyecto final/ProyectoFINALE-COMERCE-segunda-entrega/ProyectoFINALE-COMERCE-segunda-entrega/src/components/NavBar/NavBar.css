@@ -1,0 +1,43 @@
+/* CSS (Navbar.css) */
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #161616;
+  color: #f1f1f1;
+}
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: linear-gradient(60deg, #f3f1ec2a, #0b152785);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.logo {
+  /*logo txt*/
+  font-size: 24px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-links li {
+  margin: 0 20px;
+}
+.nav-links li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #f1f1f1;
+}
+.nav-links li a:hover {
+  color: #ffd700;
+}
+.nav-links li a.active {
+  color: #f7921f;
+}
+
+/* CSS (Termina Navbar.css) */
